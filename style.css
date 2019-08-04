@@ -40,6 +40,7 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  
 }
 
 .btn-xl {
@@ -48,7 +49,9 @@ header.startup h1 {
 
 .btn-primary {
   background-color: rgba(238, 0, 0, 0.185);
-  border-color: rgb(255, 23, 23); }
+  border-color: rgb(255, 23, 23); 
+  justify-content: center;
+}
 
 .btn-primary:hover {
   background-color: rgba(255, 23, 23, 0.5);
